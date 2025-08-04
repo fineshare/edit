@@ -366,9 +366,9 @@
 ***
 
 # ► Audio Generation
-
 * ⭐ **[Riffusion](https://www.riffusion.com/)** / [Discord](https://discord.gg/riffusion-1053034685590143047)
 * ⭐ **[Suno](https://suno.com/)** - [Guide](https://sunoaiwiki.com/en) / [Discord](https://discord.com/invite/suno)
+* ⭐ **[Singify](https://singify.fineshare.com/)** / [Discord](https://discord.com/invite/HquSyU4Dy8)
 * [MusicFX](https://labs.google/fx/tools/music-fx) / Region-Based
 * [WolframTones](https://tones.wolfram.com/) / No Sign-Up
 * [Stable Audio](https://www.stableaudio.com/) / [Discord](https://discord.com/invite/stablediffusion)
